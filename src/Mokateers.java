@@ -26,6 +26,4 @@ public class Mokateers {
         System.out.println("Employee Id"+ getEmployeeId());
         System.out.println("Salary"+ getSalary());
     }
-
-
 }
